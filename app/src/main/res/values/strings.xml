@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Practica_ORM</string>
+    <string name="app_name">CRUD CLIENTE</string>
+    <string name="action_settings">Herramientas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="title_activity_create_subject">CreateSubjectActivity</string>
+    <string name="registration_no">Cedula</string>
+    <string name="email">Correo</string>
+    <string name="phone">Celular</string>
+    <string name="cross_image_content_description">Eliminar cliente de la base de datos</string>
+    <string name="empty_cliente_list_message">Lista de clientes vacia!</string>
+    <string name="cliente_name">Nombre</string>
+    <string name="update">Actualizar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="create_button">Crear</string>
+    <string name="all_delete">Eliminar todo</string>
+    <string name="edit_button_description">Editar solo información del cliente</string>
 </resources>
